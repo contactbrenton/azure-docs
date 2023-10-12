@@ -31,12 +31,12 @@ These basic controls include:
 ## Who's it for?
 
 - Organizations who want to increase their security posture, but don't know how or where to start.
-- Organizations using the free tier of Microsoft Entra ID licensing.
+- Organizations using the free tier of Microsoft Entra ID licensing who do not have access to [Conditional Access](../conditional-access/concept-conditional-access-policy-common.md#template-categories).
 
 ### Who should use Conditional Access?
 
-- If you're an organization with Microsoft Entra ID P1 or P2 licenses, security defaults are probably not right for you.
-- If your organization has complex security requirements, you should consider [Conditional Access](../conditional-access/concept-conditional-access-policy-common.md#template-categories).
+- If you're an organization with Microsoft Entra ID P1 or P2 licenses, you should consider [Conditional Access](../conditional-access/concept-conditional-access-policy-common.md#template-categories). 
+- If your organization has more complex security requirements, security defaults may not meet your needs.
 
 ## Enabling security defaults
 
